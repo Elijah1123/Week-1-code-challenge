@@ -20,7 +20,21 @@ document.addEventListener("DOMContentLoaded", () => {
             image: "./images/tonkotsu.jpg",
             rating: 5,
             comment: "Creamy and flavorful!"
-        }
+        },
+        {
+            name: "Food Ramen",
+            restaurant: "Ramen-ya",
+            image: "./images/food.jpg",
+            rating: 6,
+            comment: "flavorful!"
+        },  
+        {
+            name: "Food Ramen",
+            restaurant: "Ramen-ya",
+            image: "./images/4567.jpg",
+            rating: 6.5,
+            comment: "yummy!"
+        },  
     ];
 
     function displayRamens() {

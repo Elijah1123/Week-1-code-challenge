@@ -1,11 +1,11 @@
 #ramen-menu {
-    width: 800px;
+    width: 1000px;
     margin: auto;
     cursor: pointer;
 
 }
 #ramen-detail {
-    width: 800px;
+    width: 200px;
     margin: auto;
 }
 #form-container {
@@ -14,4 +14,6 @@
 }
 h1{
     text-align: center;
+
+
 }
